@@ -1,7 +1,7 @@
 #pragma once
+#include <Novice.h>
 #include <stdio.h>
-const int MAP_SIZE_X = 50;
-const int MAP_SIZE_Y = 27;
+#include "Struct.h"
 class MapLoad
 {
 private:
