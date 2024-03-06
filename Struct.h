@@ -1,5 +1,6 @@
-#pragma once
-#pragma region ƒ}ƒbƒvƒ`ƒbƒv
-const int MAP_SIZE_X = 50;
-const int MAP_SIZE_Y = 27;
+ï»¿#pragma once
+#pragma region ãƒãƒƒãƒ—ãƒãƒƒãƒ—
+const int MAP_X = 41;
+const int MAP_Y = 23;
+const int MAP_SIZE = 10;
 #pragma endregion
