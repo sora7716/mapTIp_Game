@@ -21,7 +21,7 @@ public:
 	/// <summary>
 	/// ファイルがエラーを起こしていないか
 	/// </summary>
-	void FileOpen(char* keys, char* preKeys);
+	void FileOpen();
 
 	/// <summary>
 	/// ファイルにある値の代入
